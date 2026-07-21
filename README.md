@@ -35,7 +35,8 @@
 ---
 
 ### LLM 기반 학사 행정 통합 질의응답 챗봇 (RAG)
-> 2026학년도 AX 기반 역량 강화 프로젝트 (금오공대 AX교수학습센터) · **풀스택 개발 담당** · 착수 예정
+> 2026학년도 AX 기반 역량 강화 프로젝트 (금오공대 AX교수학습센터) · **풀스택 개발**·
+> 2026.07.21 ~ 진행 중 · [kumoh-academic-rag](https://github.com/namelesspark/kumoh-academic-rag.git)
 
 학칙·장학·전과·졸업 규정이 공지사항과 부서별 PDF/HWP에 파편화되어 있어, 학생은 문서를 직접 뒤지고 행정실은 반복 문의에 시달리는 문제를 다룸.
 규칙 기반 챗봇을 건너뛰고 **RAG로 환각을 통제하면서 학적 데이터와 연동된 개인화 답변**을 생성하는 것이 목표임.
@@ -52,7 +53,7 @@
 ---
 
 ### 설비 고장 예측 AI 데이터 분석 — POSCO K-뉴딜
-> 2026.07 ~ 진행 중 · [posco-pdm-academy](https://github.com/namelesspark/posco-pdm-academy)
+> 2026.07.06 ~ 진행 중 · [posco-pdm-academy](https://github.com/namelesspark/posco-pdm-academy)
 
 예측 정비(Predictive Maintenance) 관점의 설비 데이터 분석 과정임.
 사후 정비·예방 정비의 한계를 넘어, **데이터로 고장 신호를 미리 잡아 정비를 계획하는 방식**을 다룸.
